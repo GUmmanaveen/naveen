@@ -1,4 +1,5 @@
 #!/bin/bash
+hello
 haii
 echo "Enter your firstName"
 read firstName
