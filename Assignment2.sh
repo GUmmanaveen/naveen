@@ -1,6 +1,6 @@
 #!/bin/bash
 hello
-haii
+bye
 echo "Enter your firstName"
 read firstName
 if [[ "${firstName}" =~ [^a-zA-Z] ]]; then
